@@ -20,9 +20,9 @@ Username: <code>admin</code>
 Password: <code>admin</code>
 
 ### Teacher Account
-Username: <code>akshat</code>
+Username: <code>teacher1</code>
 Password: <code>qwerty@18</code>
 
 ### Student Account
-Username: <code>test</code>
+Username: <code>student1</code>
 Password: <code>qwerty@18</code>
