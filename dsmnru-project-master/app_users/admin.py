@@ -7,3 +7,5 @@ admin.site.register(AboutUs)
 admin.site.register(Logo)
 admin.site.register(Contact)
 admin.site.register(ContactForm)
+
+admin.site.site_header = 'DSMNRU administration'
